@@ -1,4 +1,4 @@
-# Bamazon Storefront App**
+# Bamazon Storefront App
 
 ### Description:
 Bamazon is a storefront created with MySQL. This app lists the available items and takes order from the customers
