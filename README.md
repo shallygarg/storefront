@@ -1,6 +1,6 @@
 **Bamazon Storefront App**
 
-#Description:
+# Description:
 Bamazon is a storefront created with MySQL. This app lists the available items and takes order from the customers
 
 * Customer can view items and select an Item with item code to purchase
@@ -10,3 +10,9 @@ Bamazon is a storefront created with MySQL. This app lists the available items a
 **Video**
 https://drive.google.com/file/d/17K8KSTjkjavmoeqoOrBDpQfu25QyAt5f/view?usp=sharing
 
+
+# About the App
+* All the SQL queries are in Schema.sql
+* Seed.sql contains insert queries
+* Server code is in bamazon.js file
+* User needs mysql and inquirer dependecies to use the application
